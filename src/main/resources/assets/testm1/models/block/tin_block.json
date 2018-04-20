@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "testm1:blocks/tin_block"
+	}
+}

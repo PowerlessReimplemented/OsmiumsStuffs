@@ -1,0 +1,9 @@
+#material items
+item.copper_ingot.name=Copper Ingot
+item.tin_ingot.name=Tin Ingot
+
+#material blocks
+tile.copper_block.name=Copper Block
+tile.tin_block.name=Tin Block
+tile.copper_ore.name=Copper Ore
+tile.tin_ore.name=Tin Ore

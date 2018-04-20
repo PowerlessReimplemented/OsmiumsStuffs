@@ -1,0 +1,16 @@
+[
+{
+  "modid": "testm1",
+  "name": "TestMod1",
+  "description": "minecraft mod",
+  "version": "0.1a",
+  "mcversion": "1.10.2",
+  "url": "http://minecraft.curseforge.com",
+  "updateUrl": "",
+  "authorList": ["qwefbine"],
+  "credits": "null",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
