@@ -3,10 +3,12 @@ package qwefbine.mods.testarea.testmod1;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.SidedProxy;
-import net.minecraftforge.fml.common.event.*;
-import qwefbine.mods.testarea.testmod1.init.*;
-import qwefbine.mods.testarea.testmod1.proxy.*;
-import qwefbine.mods.testarea.testmod1.utils.*;
+import net.minecraftforge.fml.common.event.FMLInitializationEvent;
+import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
+import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+import qwefbine.mods.testarea.testmod1.init.ModBlocks;
+import qwefbine.mods.testarea.testmod1.init.ModItems;
+import qwefbine.mods.testarea.testmod1.proxy.CommonProxy;
 
 @Mod(modid = Reference.MODID, name = Reference.NAME, version = Reference.VERSION)
 public class TestMod1 {

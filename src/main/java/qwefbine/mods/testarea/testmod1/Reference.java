@@ -1,7 +1,5 @@
 package qwefbine.mods.testarea.testmod1;
 
-import qwefbine.mods.testarea.testmod1.utils.*;
-
 public class Reference {
 	
 	public static final String MODID = "testm1";
